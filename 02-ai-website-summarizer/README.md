@@ -28,6 +28,10 @@ Example URLs:
   <img src="demo/Recording 2026-07-03 105146.gif" alt="AI Website Summarizer Demo" width="900"/>
 </p>
 
+<p align="center">
+  <em>AI Website Summarizer built with Python, Gradio, BeautifulSoup, and OpenAI GPT-4o Mini.</em>
+</p>
+
 ---
 
 ## 🏗️ Project Structure
