@@ -10,18 +10,6 @@ Users simply provide a website URL, and the application:
 
 ---
 
-## 🚀 Demo
-
-> Enter a website URL and click **🚀 Summarize**.
-
-Example URLs:
-
-- https://openai.com
-- https://huggingface.co
-- https://python.org
-
----
-
 ## 📸 Demo
 
 <p align="center">
